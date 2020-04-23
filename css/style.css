@@ -143,3 +143,15 @@ div.slider-button {
 div.lkl {
     position: absolute;
 }
+/* FOOTER */
+.footer {
+  background-color: rgb(50, 50, 50);
+  text-align: center;
+  line-height: 88px;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: rgb(254, 254, 254);
+}
+a.footer {
+  color: rgb(26, 188, 156);
+}
